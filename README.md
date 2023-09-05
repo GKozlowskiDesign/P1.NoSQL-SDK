@@ -8,6 +8,8 @@ The motivation for the NoSQL SDK project was to help me write code more efficien
   <li>Technologies</li>
   <li>More Info</li>
   <li>Models</li>
+  <li>Release Checklist</li>
+  <li>General Considerations</li>
   <li>Contributions</li>
   <li>License</li>
   <li>Acknowledgments</li>
