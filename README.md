@@ -58,6 +58,12 @@ You will also need to create a MongoDB database. The easiest way to get started 
 
 # Models
 ![mern-stack-b9q1kbudz0](https://github.com/GKozlowskiDesign/Project_SDKBackendMongoDB/assets/82541715/cba214e6-74a2-4189-a44f-a076267b9d0b)
+<h3>Model Actions</h3>
+<ol>
+  <li>GetPostByID</li>
+  <li>GetPosts</li>
+  <li>CreatePost</li>
+</ol>
 
 
 # Release Checklist
